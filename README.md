@@ -2,7 +2,7 @@
 
 <!--
 **Divyanshi-Ganvir/Divyanshi-Ganvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 I’m Divi, a computer science student at Cardiff University. 
 
 I'm passionate about creating intuitive digital solutions and learning the necessary skill sets to confidently approach challenging tasks and build scalable software. I enjoy learning how new technologies work and how they can be implemented to further optimise current programs.
